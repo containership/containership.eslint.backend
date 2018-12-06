@@ -6,10 +6,7 @@ module.exports = {
         "node": true
     },
     "parserOptions": {
-        "ecmaVersion": 2017,
-        "ecmaFeatures": {
-            "experimentalObjectRestSpread": true
-        }
+        "ecmaVersion": 2018
     },
     "extends": [
         "eslint:recommended",
